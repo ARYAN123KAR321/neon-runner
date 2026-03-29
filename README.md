@@ -1,4 +1,4 @@
-# 🏃 NEON RUNNER // CYBERPUNK
+# 🏃 NEON RUNNER
 
 > *Survive the underground. Outrun the megacity.*
 
@@ -8,7 +8,7 @@ A fully self-contained cyberpunk endless runner game built with pure HTML5 Canva
 
 ## 🎮 Play Now
 
-👉 **[Play NEON RUNNER](https://yourusername.github.io/neon-runner)**
+👉 **[Play NEON RUNNER](https://aryan123kar321.github.io/neon-runner/)**
 
 ---
 
